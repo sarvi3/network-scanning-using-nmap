@@ -24,6 +24,6 @@ To scan a system and network using Nmap and identify open ports and services.
 
 ## Results
 
-* Identified open ports and services
+* Identified open ports such as 135, 445, and analyzed associated services. Observed that open ports can indicate potential attack surfaces if not secured.
 * Observed system and router-level exposure
 
